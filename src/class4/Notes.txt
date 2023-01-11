@@ -1,0 +1,42 @@
+Operators:
+     Operators are different symbols that we can use to perform operations like addition, subtractions we can compare
+     things if two entities are same or not if a number is greater than the other number or not.
+     There are 3 main types of operators. They are: Arithmetic operators
+                                                    Relational operator,
+                                                    Logical operators.
+
+ Arithmetic operators:
+   We use Arithmetic operators to perform simple math operations. Like additions , subtraction etc.
+   + => Addition
+   - +> Subtraction
+   / => Division
+   * => Multiplication
+   % => modulus , remainder
+
+   Relational operators.
+     Relational operators are used to compare 2 quantities or entities, for example if something is Bigger than other
+     thing or if 2 numbers are same or not or if 2 boolean variables contain same values or not.
+     == => used to check if 2 variables  contain the same value or not if same we get true otherwise we get false.
+     != => used to check if 2 variables don't contain the same value, we get a true if they are same.
+     >  => used to check if one value is greater than other value or not if greater we get a true.
+     <  => used to check if the value on the left is smaller than the value on right side we will get a True.
+     >= => if the value on left is greater than the value on the right side or if they are same we will get true.
+     <= => it opposite of >= and it used to check if something is less than or equal to the other thing.
+
+ Conditional constructs
+ Used to write conditional code( A piece of code that execute based on a condition if condition is True than Java
+ execute the code otherwise it skips that code.)
+ How to write IfElse condition:
+ if(condition){
+ any line of code
+
+ if(){
+ }
+
+ }
+
+
+Important Notes:
+1) For String we use equal method instead of == sign because its a non-primitive data type
+2)We can Ctrl+Alt+l(windows) to format our code.
+3)If we are confused about brackets we can click on opening or closing part
